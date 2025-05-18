@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://NathanStangler.github.io/sitemap.xml
