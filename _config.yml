@@ -198,8 +198,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Stangler]
+  first_name: [Nathan]
 
   style: apa
   locale: en
