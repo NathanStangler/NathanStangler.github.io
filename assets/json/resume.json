@@ -2,20 +2,32 @@
   "basics": {
     "name": "Nathan Stangler",
     "label": "Computer Science and Data Science double major at the University of Minnesota",
-    "image": "",
     "email": "stang451@umn.edu"
   },
   "education": [
     {
-      "institution": "University of Minnesota",
+      "institution": "College of Science and Engineering, University of Minnesota-Twin Cities",
       "location": "Minneapolis, Minnesota",
       "area": "Computer Science, Data Science",
-      "studyType": "B.S.",
+      "studyType": "Bachelor of Science",
       "startDate": "2023-09-05",
       "score": "10"
     }
   ],
   "work": [
+    {
+      "name": "ImageTrend",
+      "position": "Software Developer Intern",
+      "startDate": "2025-05-16",
+      "highlights": ["Developing new systems and databases using C#/.Net Core and MSSQL"]
+    },
+    {
+      "name": "University of Minnesota-Twin Cities, Knowledge Computing Lab",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2025-05-16",
+	  "summary": "Advisor: JangHyeon Lee",
+      "highlights": ["Developing a CLIP-based model to identify solar storms using visual features from satellite imagery with descriptive text"]
+    },
     {
       "name": "Best Buy",
       "position": "Sales Advisor",
@@ -36,6 +48,15 @@
       "highlights": ["Designed and developed a scalable, object oriented, and event driven Minecraft network packet-based scoreboard plugin compatible with multiple game versions", "Integrated with third-party applications through the creation of a portable scoreboard management API"],
       "startDate": "2024-05-01",
       "endDate": "2024-09-01"
+    }
+  ],
+  "memberships": [
+    {
+      "name": "University of Minnesota Robotics",
+	  "position": "Member",
+      "highlights": ["Contributed to the creation and design of an autonomous robot for the NASA Lunabotics competition using NVIDIA Isaac ROS libraries", "Collaborated with group members to develop and debug a heightmap conveyor belt detector and a visual based position estimator"],
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-01"
     }
   ]
 }
