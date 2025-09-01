@@ -1,60 +1,97 @@
 {
   "basics": {
     "name": "Nathan Stangler",
-    "label": "Computer Science and Data Science double major at the University of Minnesota",
+    "label": "Computer Science and Data Science Undergraduate | Integrated Computer Science B.S./M.S. Degree Program | University of Minnesota - Twin Cities",
     "email": "stang451@umn.edu"
   },
   "education": [
     {
       "institution": "College of Science and Engineering, University of Minnesota-Twin Cities",
       "location": "Minneapolis, Minnesota",
+      "studyType": "Master of Science in Computer Science (Integrated Program)",
+      "startDate": "2025-09-02",
+      "endDate": "2027-05-01"
+    },
+    {
+      "institution": "College of Science and Engineering, University of Minnesota-Twin Cities",
+      "location": "Minneapolis, Minnesota",
       "area": "Computer Science, Data Science",
       "studyType": "Bachelor of Science",
       "startDate": "2023-09-05",
-      "score": "10"
+      "endDate": "2026-05-01"
     }
   ],
   "work": [
     {
-      "name": "ImageTrend",
-      "position": "Software Developer Intern",
-      "startDate": "2025-05-16",
-      "highlights": ["Developing new systems and databases using C#/.Net Core and MSSQL"]
-    },
-    {
       "name": "University of Minnesota-Twin Cities, Knowledge Computing Lab",
       "position": "Undergraduate Research Assistant",
       "startDate": "2025-05-16",
-	  "summary": "Advisor: JangHyeon Lee",
-      "highlights": ["Developing a CLIP-based model to identify solar storms using visual features from satellite imagery with descriptive text"]
+      "summary": "Advisor: JangHyeon Lee",
+      "highlights": [
+        "Developing a CLIP-based model to identify solar storms using visual features from satellite imagery with descriptive text"
+      ]
+    },
+    {
+      "name": "ImageTrend",
+      "position": "Software Developer Intern",
+      "startDate": "2025-05-16",
+      "highlights": [
+        "Designed and implemented a full-stack geocoding data visibility and control application with a Windows service API using C# and .NET Core",
+        "Created an interface for managing geocoding data sources and viewing logs using React and Material UI",
+        "Refactored legacy code to improve performance and integrate latest features",
+        "Achieved 100% unit test coverage across backend and frontend components"
+      ]
     },
     {
       "name": "Best Buy",
       "position": "Sales Advisor",
       "startDate": "2021-07-01",
       "endDate": "2023-04-01",
-      "highlights": ["Trained new employees on technical aspects of mobile device activations and setup", "Provided technical support for customers by using critical thinking skills to ease concerns", "Collaborated with team members to promote sales and productivity through organizing daily tasks and creative thinking"]
+      "highlights": [
+        "Trained new employees on technical aspects of mobile device activations and setup",
+        "Provided technical support for customers by using critical thinking skills to ease concerns",
+        "Collaborated with team members to promote sales and productivity through organizing daily tasks and creative thinking"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Daily Rewards",
-      "highlights": ["Developed and commercially launched a fully configurable daily rewards system for Garry's Mod, generating 100+ sales on Gmodstore", "Integrated MySQL and SQLite database support, with seamless interaction from a custom designed user interface using client-server communication through networking protocols"],
-      "startDate": "2020-09-01",
-      "endDate": "2020-12-01"
+      "name": "Truncate",
+      "highlights": [
+        "Built a full-stack URL shortener and analytics platform using React, TypeScript, Go (Fiber), and PostgreSQL",
+        "Implemented detailed analytics, including redirect tracking, geolocation, device, and browser statistics",
+        "Secured user data with JWT authentication and role-based access control"
+      ],
+      "startDate": "2025-05-01",
+      "endDate": "2025-09-01"
     },
     {
-      "name": "Imporved Scoreboard",
-      "highlights": ["Designed and developed a scalable, object oriented, and event driven Minecraft network packet-based scoreboard plugin compatible with multiple game versions", "Integrated with third-party applications through the creation of a portable scoreboard management API"],
+      "name": "Improved Scoreboard",
+      "highlights": [
+        "Designed and developed a scalable, object oriented, and event driven Minecraft network packet-based scoreboard plugin compatible with multiple game versions",
+        "Integrated with third-party applications through the creation of a portable scoreboard management API"
+      ],
       "startDate": "2024-05-01",
       "endDate": "2024-09-01"
+    },
+    {
+      "name": "Daily Rewards",
+      "highlights": [
+        "Developed and commercially launched a fully configurable daily rewards system for Garry's Mod, generating 100+ sales on Gmodstore",
+        "Integrated MySQL and SQLite database support, with seamless interaction from a custom designed user interface using client-server communication through networking protocols"
+      ],
+      "startDate": "2020-09-01",
+      "endDate": "2020-12-01"
     }
   ],
   "memberships": [
     {
       "name": "University of Minnesota Robotics",
-	  "position": "Member",
-      "highlights": ["Contributed to the creation and design of an autonomous robot for the NASA Lunabotics competition using NVIDIA Isaac ROS libraries", "Collaborated with group members to develop and debug a heightmap conveyor belt detector and a visual based position estimator"],
+      "position": "Member",
+      "highlights": [
+        "Contributed to the creation and design of an autonomous robot for the NASA Lunabotics competition using NVIDIA Isaac ROS libraries",
+        "Collaborated with group members to develop and debug a heightmap conveyor belt detector and a visual based position estimator"
+      ],
       "startDate": "2023-09-01",
       "endDate": "2024-05-01"
     }
