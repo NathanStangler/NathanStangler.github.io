@@ -25,7 +25,7 @@
     {
       "name": "University of Minnesota-Twin Cities, Knowledge Computing Lab",
       "position": "Undergraduate Research Assistant",
-      "startDate": "2025-05-16",
+      "startDate": "2025-05-05",
       "summary": "Advisor: JangHyeon Lee",
       "highlights": [
         "Developing a CLIP-based model to identify solar storms using visual features from satellite imagery with descriptive text"
@@ -35,6 +35,7 @@
       "name": "ImageTrend",
       "position": "Software Developer Intern",
       "startDate": "2025-05-16",
+      "endDate": "2025-08-15",
       "highlights": [
         "Designed and implemented a full-stack geocoding data visibility and control application with a Windows service API using C# and .NET Core",
         "Created an interface for managing geocoding data sources and viewing logs using React and Material UI",
