@@ -19,6 +19,9 @@ ninja.data = [{
         },{id: "news-began-software-developer-internship-at-imagetrend",
           title: 'Began software developer internship at ImageTrend.',
           description: "",
+          section: "News",},{id: "news-our-paper-solarclip-a-vision-language-model-for-the-sun-was-accepted-to-aaai-2026-sapp",
+          title: 'Our paper, SolarCLIP: A Vision-Language Model for the Sun, was accepted to AAAI...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
