@@ -55,14 +55,6 @@
       ]
     }
   ],
-  "publications": [
-	{
-	  "name": "SolarCLIP: A Vision-Language Model for the Sun",
-	  "publisher": "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)",
-	  "releaseDate": "",
-	  "url": ""
-	}
-  ],
   "projects": [
     {
       "name": "Truncate",
