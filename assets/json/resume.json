@@ -23,12 +23,24 @@
   ],
   "work": [
     {
-      "name": "University of Minnesota-Twin Cities, Knowledge Computing Lab",
-      "position": "Undergraduate Research Assistant",
+      "name": "University of Minnesota, Department of Science & Engineering",
+      "position": "Undergraduate Teaching Assistant",
+      "startDate": "2026-01-20",
+      "summary": "CSCI 5541: Natural Language Processing",
+      "highlights": [
+        "Supporting instruction for a graduate-level NLP course covering word embeddings, transformers, and large language models",
+		"Mentoring students through semester-long projects involving dataset collection, annotation, model design, training, and evaluation methodologies",
+		"Providing detailed grading and technical feedback on assignments and projects"
+      ]
+    },
+    {
+      "name": "University of Minnesota, Knowledge Computing Lab",
+      "position": "Undergraduate Researcher",
       "startDate": "2025-05-05",
       "summary": "Mentor: JangHyeon Lee, Advisor: Yao-Yi Chiang",
       "highlights": [
-        "Developing a CLIP-based model to identify solar storms using visual features from satellite imagery with descriptive text"
+        "Led development of SolarCLIP, a domain-adapted vision–language model for solar physics by selectively fine-tuning CLIP’s projection heads and targeted transformer layers",
+		"Designed and ran a full machine learning experimentation pipeline including model training, evaluation tooling, data preprocessing, and embedding-space analysis"
       ]
     },
     {
@@ -56,6 +68,14 @@
     }
   ],
   "projects": [
+    {
+      "name": "VulnRL",
+      "highlights": [
+        "Designing a compiler-verified reinforcement learning framework for C/C++ vulnerability detection using compiler diagnostics and analyzer feedback as reward signals",
+        "Implementing a pipeline combining LoRA-based parameter-efficient fine-tuning and GRPO reinforcement learning on large code LLMs to enable CWE-level vulnerability classification"
+      ],
+      "startDate": "2025-10-01"
+    },
     {
       "name": "Truncate",
       "highlights": [
