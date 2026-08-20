@@ -88,7 +88,7 @@
         "Built a real-time dashboard with Google OAuth, configurable response schemas, and WebSockets to detect unreachable endpoints and breaking API changes, with public tracker discovery for shared monitoring"
       ],
       "startDate": "2026-08-08",
-	  "startDate": "2026-09-08"
+	  "endDate": "2026-09-08"
     },
     {
       "name": "Truncate",
