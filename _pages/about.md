@@ -17,4 +17,4 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Computer Science and Data Science double major at the [University of Minnesota](https://twin-cities.umn.edu/), and in the [Integrated Computer Science B.S./M.S. Program](https://cse.umn.edu/cs/integrated-program-bachelorsmasters). My primary interests are in software engineering and machine learning research.
+I am a Computer Science M.S. student at the [University of Minnesota](https://twin-cities.umn.edu/). I also completed my undergraduate degree at the University of Minnesota with a double major in Computer Science and Data Science, and was in the [Integrated Computer Science B.S./M.S. Program](https://cse.umn.edu/cs/integrated-program-bachelorsmasters). My primary interests are in software engineering and machine learning research.
