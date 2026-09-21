@@ -8,14 +8,15 @@
     {
       "institution": "College of Science and Engineering, University of Minnesota-Twin Cities",
       "location": "Minneapolis, Minnesota",
-      "studyType": "Master of Science in Computer Science",
+	  "area": "Major: Computer Science; Minor: Cyber Security",
+      "studyType": "Master of Science",
       "startDate": "2026-09-08",
       "endDate": "2027-05-01"
     },
     {
       "institution": "College of Science and Engineering, University of Minnesota-Twin Cities",
       "location": "Minneapolis, Minnesota",
-      "area": "Computer Science, Data Science",
+      "area": "Major: Computer Science, Data Science; Minor: Statistics",
       "studyType": "Bachelor of Science",
       "startDate": "2023-09-05",
       "endDate": "2026-05-01"
@@ -53,7 +54,7 @@
       "summary": "Mentor: JangHyeon Lee, Advisor: Yao-Yi Chiang",
       "highlights": [
         "Led development of SolarCLIP, a domain-adapted vision–language model for solar physics by selectively fine-tuning CLIP’s projection heads and targeted transformer layers",
-		"Designed and ran a full machine learning experimentation pipeline including model training, evaluation tooling, data preprocessing, and embedding-space analysis"
+		"Designed and implemented a full machine learning experimentation pipeline including model training, evaluation tooling, data preprocessing, and embedding-space analysis"
       ]
     },
     {
