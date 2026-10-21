@@ -83,6 +83,15 @@
   ],
   "projects": [
     {
+      "name": "RelayMQ",
+      "highlights": [
+        "Built a C++ publish/subscribe message broker with non-blocking network I/O, wildcard subject routing, token-based access control, and support for standalone and peer-to-peer clustered deployments",
+        "Developed C++ and Go client SDKs and a CLI, enabling applications to connect to RelayMQ, publish messages, and subscribe to subjects"
+      ],
+      "startDate": "2026-10-01",
+	  "endDate": "2026-10-31"
+    },
+    {
       "name": "API Monitor",
       "highlights": [
         "Developed a distributed API monitoring platform with scheduled polling, NATS, PostgreSQL, and worker services to continuously track endpoint uptime, health, and latency",
